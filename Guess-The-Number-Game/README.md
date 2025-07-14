@@ -33,13 +33,3 @@ To run the game locally, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in a web browser.
-
-## Contributing 🤝
-
-If you'd like to contribute to the project or report issues, please [open an issue](link_to_issues) or [submit a pull request](link_to_pull_requests). Your feedback is highly appreciated!
-
-## License 📝
-
-This project is licensed under the [MIT License](link_to_license) - see the [LICENSE.md](LICENSE.md) file for details.
-
----
