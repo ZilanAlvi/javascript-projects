@@ -44,14 +44,3 @@ Create a minimalistic To-Do List web application using HTML, CSS, and JavaScript
 ### Local Storage 🔄:
 - Tasks are stored in the browser's local storage, ensuring data persistence.
 
-### Contribution:
-Feel free to contribute by submitting pull requests. Bug fixes, enhancements, and new features are welcome.
-
-### License:
-This project is licensed under the [MIT License](LICENSE).
-
-### Demo:
-[https://chiragjagani.github.io/To-Do-List-With-Local-Storage/]
-
----
-
