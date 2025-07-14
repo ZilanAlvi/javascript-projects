@@ -25,12 +25,5 @@ As a PG resident, I know how important it is to manage expenses effectively. Thi
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-## Contributing
-Contributions are welcome! If you'd like to add a new feature or fix a bug, please submit a pull request.
-
 ## Author
-[Chirag Jagani]
-
-## Acknowledgments
-### XLSX library for Excel file generation
-### HTML and CSS templates for the user interface
+[Md. Shahanur Zilane]
