@@ -100,9 +100,6 @@ Here are examples of valid CSV files:
 - **Incorrect File Extension:** Only CSV files are accepted.
 - **Data Validation Errors:** Issues with dates or overlapping events will be reported with detailed messages.
 
-### Contributing
-
-Contributions to this project are welcome. If you have suggestions or improvements, please submit a pull request or open an issue on GitHub.
 
 ### License
 
